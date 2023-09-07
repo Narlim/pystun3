@@ -9,7 +9,7 @@ def main():
     README = open(os.path.join(src, 'README.rst')).read()
 
     setup(
-        name='pystun3',
+        name='pystun3-fix',
         version=stun.__version__,
         packages=find_packages(),
         zip_safe=False,

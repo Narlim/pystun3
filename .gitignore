@@ -4,6 +4,6 @@
 .coverage
 build/
 dist/
-pystun3.egg-info
+pystun3*.egg-info
 venv/
 .vscode/

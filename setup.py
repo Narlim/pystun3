@@ -15,7 +15,7 @@ def main():
         zip_safe=False,
         license='MIT',
         author='Narlim (original authors: gaohawk, Justin Riley)',
-        author_email='wangweimingooo@gmail.com'
+        author_email='wangweimingooo@gmail.com',
         url='https://github.com/Narlim/pystun3',
         description='A Python STUN client for getting NAT type and external IP (RFC 3489)',
         long_description=README,

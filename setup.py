@@ -14,7 +14,7 @@ def main():
         packages=find_packages(),
         zip_safe=False,
         license='MIT',
-        author='TalkIQ (original authors: gaohawk, Justin Riley)',
+        author='Narlim (original authors: gaohawk, Justin Riley)',
         url='https://github.com/Narlim/pystun3',
         description='A Python STUN client for getting NAT type and external IP (RFC 3489)',
         long_description=README,
